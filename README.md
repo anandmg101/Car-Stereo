@@ -55,3 +55,4 @@ If you like this project and would like to support me, then buy me a beer or som
 qtconnectivity-dev
 libcanberra
 libgconf2-dev
+libpulse*
