@@ -21,9 +21,9 @@ int main(int argc, char *argv[])
 {
     setbuf(stdout, nullptr);
 
-    QCoreApplication::setOrganizationName("viktorgino");
-    QCoreApplication::setOrganizationDomain("https://github.com/viktorgino/headunit-desktop");
-    QCoreApplication::setApplicationName("viktorgino's HeadUnit Desktop");
+    QCoreApplication::setOrganizationName("tomatolabs");
+    QCoreApplication::setOrganizationDomain("https://tomatolabs.io");
+    QCoreApplication::setApplicationName("Car-Stereo");
 
     QApplication app(argc, argv);
     QLoggingCategory::setFilterRules("");
@@ -32,7 +32,7 @@ int main(int argc, char *argv[])
     QVariantList menuItems;
     QVariantList configItems;
 
-    int defaultMenuItem = 4;
+    int defaultMenuItem = 0;
 
     PluginManager pluginManager;
     pluginManager.loadPlugins(engine);

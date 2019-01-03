@@ -4,6 +4,6 @@
         "text":"Phone",
         "source":"qrc:/PhoneBluetooth/Phone.qml",
         "image": "qrc:/PhoneBluetooth/bluetooth.png",
-        "color":"#00BCD4"
+        "color":"#061F2C"
     }
 }

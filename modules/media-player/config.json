@@ -3,8 +3,8 @@
     "menu":{
         "text":"Music",
         "source":"qrc:/MediaPlayer/qml/MediaPlayerLayout.qml",
-        "image": "qrc:/MediaPlayer/images/music-note.svg",
-        "color":"#3F51B5"
+        "image": "qrc:/MediaPlayer/images/note.png",
+        "color":"#082B54"
     },
     "config":{
         "name":"media-locations",

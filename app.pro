@@ -1,5 +1,5 @@
 TEMPLATE = app
-TARGET = headunit-app
+TARGET = car-stereo-app
 QT += gui widgets qml quick bluetooth
 CONFIG += c++11 link_pkgconfig welleio
 QMAKE_CXXFLAGS += -Wno-unused-parameter

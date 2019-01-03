@@ -13,6 +13,7 @@
         <file>qml/NowPlayingList.qml</file>
         <file>qml/NowPlayingListItem.qml</file>
         <file>images/music-note.svg</file>
+        <file>images/note.png</file>
         <file>images/android-folder.png</file>
         <file>qml/MediaPlayerSettings.qml</file>
         <file>qml/ImageButton.qml</file>

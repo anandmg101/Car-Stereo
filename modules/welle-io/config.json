@@ -5,6 +5,6 @@
         "source":"qrc:/WelleIoPlugin/DABLayout.qml",
         "image":"qrc:/WelleIoPlugin/radio-waves.svg",
         "text":"DAB",
-        "color":"#9C27B0"
+        "color":"#589FE3"
     }
 }
