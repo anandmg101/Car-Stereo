@@ -49,3 +49,10 @@ For more details and install instructions see: [headunit.viktorgino.me/](http://
 -------------------
 
 If you like this project and would like to support me, then buy me a beer or something [here](http://amzn.eu/3FbYXDC)
+
+
+
+qtconnectivity-dev
+libcanberra
+libgconf2-dev
+libpulse*
