@@ -1,9 +1,6 @@
 [submodule "headunit"]
 	path = modules/android-auto/headunit
 	url = https://github.com/viktorgino/libheadunit.git
-[submodule "qml_gui"]
-	path = qml_gui
-	url = https://github.com/anandmg101/Car-Stereo-GUI.git
 [submodule "doxygen-bootstrapped"]
 	path = doxygen-bootstrapped
 	url = https://github.com/Velron/doxygen-bootstrapped.git
