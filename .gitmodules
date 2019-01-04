@@ -11,3 +11,6 @@
 [submodule "modules/volume-control/qml/plasma-pa"]
 	path = modules/volume-control/qml/plasma-pa
 	url = https://github.com/KDE/plasma-pa.git
+[submodule "Car-Stereo-GUI"]
+	path = Car-Stereo-GUI
+	url = https://github.com/anandmg101/Car-Stereo-GUI.git
