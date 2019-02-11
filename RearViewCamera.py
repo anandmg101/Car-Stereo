@@ -22,4 +22,5 @@ try:
             GPIO.output(12, GPIO.HIGH)
             RVC_set=0
 
+# https://thepihut.com/blogs/raspberry-pi-tutorials/27968772-turning-on-an-led-with-your-raspberry-pis-gpio-pins
   
