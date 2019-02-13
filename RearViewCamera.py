@@ -7,7 +7,8 @@ GPIO.setup(3, GPIO.OUT)
 
 try:  
     print ("Waiting for falling edge on port 23")
-    GPIO.wait_for_edge(2, GPIO.RISING)  
+    GPIO.wait_for_edge(2, GPIO.RISING)
+    print ("Event detected")
     time.sleep(5)
     if GPIO.input(2):
         GPIO.output(3, GPIO.HIGH)
@@ -21,3 +22,6 @@ try:
             time.sleep(1)
             GPIO.output(3, GPIO.HIGH)
             RVC_set=0
+except KeyboardInterrupt:  
+    GPIO.cleanup()   
+GPIO.cleanup()
